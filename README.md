@@ -1,4 +1,7 @@
-### Hi there 👋
+### Miguel Figueira Ferraz 👋
+
+[![Linkedin Badge](https://img.shields.io/badge/-miguelfferraz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguelfferraz/)](https://www.linkedin.com/in/miguelfferraz/)
+[![Gmail Badge](https://img.shields.io/badge/-miguelfigueiraferraz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miguelfigueiraferraz@gmail.com)](mailto:miguelfigueiraferraz@gmail.com)
 
 <!--
 **miguelfferraz/miguelfferraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
