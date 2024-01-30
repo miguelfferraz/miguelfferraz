@@ -5,8 +5,8 @@
 
 Hi there! 👋 I'm Miguel Figueira Ferraz, a passionate Back-End Software Developer based in Campinas, Brazil. Currently driving innovation in financial technology at [StoneX](https://www.stonex.com/).
 
-I mainly use Python and JavaScript, but I love working with different programming languages such as PHP, GoLang, Java, Rust, Shell Script, and more. </br>
-Within the Market Intelligence team at StoneX, my main motivation is to provide technological guidance to enhance the experience of our market analysts. This includes tasks such as automating continuous data pipelines and developing web solutions to meet our challenges.
+I work with languages like Python and JavaScript, but I'm also comfortable with PHP, GoLang, Java, Rust, Shell Script, and more. </br>
+Within the Market Intelligence team at StoneX, my role revolves around making things easier for our market analysts. Whether it's automating data pipelines or building web solutions, I'm here to enhance their experience and provide technological guidance to tackle our challenges head-on.
 
 ### 🚀 My Journey
 - Software Developer at [**StoneX**](https://www.stonex.com/) `Jun.2023-Present`
