@@ -24,7 +24,9 @@ Within the Market Intelligence team at StoneX, my role revolves around making th
 - Frameworks: FastAPI, Flask, React, Vue.js, Express.js
 - CI/CD: Docker, Kubernetes, GitHub Actions, Azure Pipelines
 - Cloud Platforms: AWS, Azure
-- Database: PostgreSQL, MySQL, MongoDB
+- Databases: PostgreSQL, MySQL, MongoDB
+- Message Brokers: RabbitMQ
+- Caching: Redis
 
 <!--
 **miguelfferraz/miguelfferraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
