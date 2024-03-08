@@ -22,7 +22,8 @@ Within the Market Intelligence team at StoneX, my role revolves around making th
 ### 🔨 Tooling
 - Languages: Python, JavaScript (Node.js), PHP, GoLang
 - Frameworks: FastAPI, Flask, React, Vue.js, Express.js
-- CI/CD: Docker, Kubernetes, GitHub Actions, Azure Pipelines
+- Containers: Docker, Kubernetes
+- CI/CD: GitHub Actions, Azure Pipelines
 - Cloud Platforms: AWS, Azure
 - Databases: PostgreSQL, MySQL, MongoDB
 - Message Brokers: RabbitMQ
