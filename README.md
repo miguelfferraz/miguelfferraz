@@ -8,7 +8,7 @@ Hey! 👋 I'm Miguel, a Software Developer from Campinas, Brazil. Currently driv
 I like to build things with Python and JS, but I'm also comfortable with PHP, Go, Java, Rust, Shell, and more. </br>
 Within the Market Intelligence team at StoneX, my goal is to make things easier for our market analysts by automating data pipelines and creating helpful web tools. I'm here to provide tech guidance to tackle our challenges head-on.
 
-### 🚀 My Journey
+### 🚀 My path
 - Software Developer at [**StoneX**](https://www.stonex.com/) `Jun.2023-Present`
 - Member of the core developers team at [**PlatIAgro**](https://github.com/platiagro), an open-source AI platform built on top of [**Kubeflow**](https://github.com/kubeflow) `Aug.2019-Jun.2021`
 - Software Developer at [**CPqD**](https://www.cpqd.com.br) `Aug.2019-Oct.2022`
