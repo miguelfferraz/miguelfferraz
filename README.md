@@ -29,6 +29,8 @@ Within the Market Intelligence team at StoneX, my goal is to make things easier 
 - Message Brokers: RabbitMQ
 - Caching: Redis
 
+![](https://hit.yhype.me/github/profile?user_id=39593684)
+
 <!--
 **miguelfferraz/miguelfferraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
