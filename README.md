@@ -19,6 +19,7 @@ I like to build things with Python and JS, but I'm also comfortable with PHP, Go
 
 </br>
 
+<!--
 ### 🔨 Tooling
 - Languages: Python, JavaScript (Node.js), PHP, GoLang
 - Frameworks: FastAPI, Flask, React, Vue.js, Express.js
@@ -28,6 +29,7 @@ I like to build things with Python and JS, but I'm also comfortable with PHP, Go
 - Databases: PostgreSQL, MySQL, MongoDB
 - Message Brokers: RabbitMQ
 - Caching: Redis
+-->
 
 ![](https://hit.yhype.me/github/profile?user_id=39593684)
 
